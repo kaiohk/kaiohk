@@ -2,7 +2,7 @@
 
 💻 Front-end developer
 
-📚 Software Engineer Student at Fiap
+📚 Software Engineer Student at FIAP
 
 
 ## 🛠️ Tech Stack
